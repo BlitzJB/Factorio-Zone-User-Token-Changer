@@ -1,9 +1,6 @@
 # Factorio-Zone-User-Token-Changer
 a userscript to easily change the user token in Factorio Zone
 
-# Factorio-Zone-Token-Changer
-a userscript to inject UI for easily swapping out usertokens in Factorio Zone
-
 ## Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) Chrome extension (Also works in chromium based browsers like Brave)
