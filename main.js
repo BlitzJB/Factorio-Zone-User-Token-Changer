@@ -2,7 +2,7 @@
 // @name         Factorio Zone Token Setter UI
 // @version      0.1
 // @description  tool to change the saved token in factorio zone
-// @author       You
+// @author       Blitz#1928
 // @match        https://factorio.zone/
 // ==/UserScript==
 
